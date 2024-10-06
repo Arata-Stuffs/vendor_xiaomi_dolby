@@ -14,6 +14,9 @@
 # limitations under the License.
 #
 
+# Inherit proprietary vendor files
+$(call inherit-product, vendor/dolby/afterlife/afterlife-vendor.mk)
+
 # Configs
 PRODUCT_COPY_FILES += \
 		$(LOCAL_PATH)/configs/audio/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml
