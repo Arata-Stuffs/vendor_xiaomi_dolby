@@ -7,8 +7,8 @@
 
 set -e
 
-DEVICE=afterlife
-VENDOR=dolby
+DEVICE=dolby
+VENDOR=xiaomi
 
 INITIAL_COPYRIGHT_YEAR=2024
 

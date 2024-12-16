@@ -7,8 +7,8 @@
 
 set -e
 
-DEVICE=afterlife
-VENDOR=dolby
+DEVICE=dolby
+VENDOR=xiaomi
 
 DEVICE_BRINGUP_YEAR=2018
 

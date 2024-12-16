@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-include vendor/dolby/afterlife/BoardConfigVendor.mk
+include vendor/xiaomi/dolby/BoardConfigVendor.mk

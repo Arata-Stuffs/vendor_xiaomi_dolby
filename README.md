@@ -1,3 +1,3 @@
-Copyright (C) 2024 - The AfterlifeOS Project
+Copyright (C) 2024 - The Arata-Stuffs Project
 
-# Proprietary-files for AfterEcho
+# Proprietary-files for XiaomiDolby
